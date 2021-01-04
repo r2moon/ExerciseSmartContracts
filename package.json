@@ -1,0 +1,13 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.2.1",
+    "truffle": "^5.1.59"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
+  }
+}
